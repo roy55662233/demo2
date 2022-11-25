@@ -1,4 +1,5 @@
 rootProject.name = 'demo2'
 include 'api'
 include 'domain'
+include 'infrastructure'
 
